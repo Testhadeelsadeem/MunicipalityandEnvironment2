@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hadeel.municipalityandenvironment.fifthpage2">
+
+    <item android:id="@+id/activity_third_page"
+        android:title="@string/home_page"/>
+    <item android:id="@+id/activity_fourthpage"
+        android:title="@string/bin"/>
+    <item android:id="@+id/activity_sixthpage"
+        android:title="@string/Pest"/>
+    <item android:id="@+id/activity_seventhhpage"
+        android:title="@string/tree"/>
+    <item android:id="@+id/activity_second_page"
+        android:title="@string/login"/>
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/activity_first__page"
+        android:title="@string/home_page"/>
+    <item android:id="@+id/activity_fourthpage"
+        android:title="@string/bin"/>
+    <item android:id="@+id/activity_sixthpage"
+        android:title="@string/Pest"/>
+    <item android:id="@+id/activity_seventhhpage"
+        android:title="@string/tree"/>
+</menu>
